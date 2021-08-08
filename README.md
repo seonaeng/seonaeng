@@ -1,8 +1,6 @@
 # Hi 👋, I'm SeonHaeng Kim
 
-## 👨🏻‍💻 About Me
-
-- I'm Data Analyst & AI Engineer.
+🌱 I’m currently learning NLP & Data Analysis
 
 
 ## 🛠 Tech Stack
@@ -24,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/seonaeg">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seonaeng&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="seonaeng" align="center"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seonaeng&show_icons=true&theme=default&count_private=true&include_all_commits=true&locale=en" alt="seonaeng" align="center"/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=seonaeng&theme=default" alt="seonaeng" align="center"/>
   </a>
 </p>
