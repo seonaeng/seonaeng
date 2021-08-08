@@ -26,19 +26,3 @@
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=seonaeng&theme=default" alt="seonaeng" align="center"/>
   </a>
 </p>
-
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-  <a href="mailto:sunhaengkim6445@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
-  <a href="https://velog.io/@seonaeg" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a> &nbsp
-  <a href="https://www.linkedin.com/in/seon-haeng-kim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
-  
-
-![header](https://capsule-render.vercel.app/api?&type=waving&section=footer)
-
-<p align="right">
-  <a href="https://github.com/seonaeng">
-    <img src="https://komarev.com/ghpvc/?username=seonaeng&label=Views&color=0e75b6&style=flat-square" alt="seonaeng"/>
-  </a>
-</p>
